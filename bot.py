@@ -5,11 +5,11 @@ from mcrcon import MCRcon
 import asyncio
 import logging
 
-TOKEN = "8053770051:AAH3RXd8tPiYoHr936hH_0BfvJ4Q4FELhYA"
-RCON_IP = "192.168.0.101"
-RCON_PORT = 25576
-RCON_PASS = "1"
-username = "saka"
+TOKEN = "YOUR_TOKEN"
+RCON_IP = "RCON_IP"
+RCON_PORT = #RCON_PORT
+RCON_PASS = "RCON_PASS"
+username = "PLAYER'S NAME"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
